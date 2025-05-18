@@ -6,7 +6,7 @@ import BirthdayMessage from '../components/BirthdayMessage';
 
 const quotes = [
   "In all the world, there is no heart for me like yours. In all the world, there is no love for you like mine.",
-  "ਫੁੱਲ ਤੇ ਖੁਸ਼ਬੋ ਅੱਜ ਮਿਲ ਕੇ ਮਹਿਫਿਲ ਕਰਵਾਉਣ ਲੱਗੇ ਨੇ,\nਧਰਤੀ ਤੋਂ ਲਈ ਇਜਾਜ਼ਤ ਸੁਫ਼ਨੇ ਰੰਗਵਾਉਣ ਲੱਗੇ ਨੇ,\nਬੱਦਲਾਂ ਨੇ ਬੰਦੋਬਸਤ ਵੀ ਕੀਤੇ ਨੇ ਉਮਦਾ ਸਾਰੇ,\nਧੁੱਪ ਹੋਰੀਂ ਲਾਉਣ ਕਨਾਤਾਂ ਮੌਸਮ ਵੀ ਗਾਉਣ ਲੱਗੇ ਨੇ"
+  "ਫੁੱਲ ਤੇ ਖੁਸ਼ਬੋ ਅੱਜ ਮਿਲ ਕੇ ਮਹਿਫਿਲ ਕਰਵਾਉਣ ਲੱਗੇ ਨੇ,\nਧਰਤੀ ਤੋਂ ਲਈ ਇਜਾਜ਼ਤ ਸੁਫ਼ਨੇ ਰੰਗਵਾਉਣ ਲੱਗੇ ਨੇ,\nਬੱਦਲਾਂ ਨੇ ਬੰਦੋਬਸਤ ਵੀ ਕੀਤੇ ਨੇ ਉਮਦਾ ਸਾਰੇ,\nਧੁੱਪ ਹੋਰੀਂ ਲਾਉਣ ਕਨਾਤਾਂ ਮੌਸਮ ਵੀ ਗਾਉਣ ਲੱਗੇ ਨੇ |"
 ];
 
 const Index = () => {

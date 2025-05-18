@@ -29,7 +29,7 @@ const EntranceAnimation: React.FC = () => {
         {textVisible && (
           <div className="animate-fade-in">
             <p className="font-playfair text-4xl text-gradient mb-4">A journey awaits...</p>
-            <p className="text-mystery-gray animate-pulse">Scroll to discover</p>
+            <p className="text-mystery-gray animate-pulse">Let's discover</p>
           </div>
         )}
       </div>
